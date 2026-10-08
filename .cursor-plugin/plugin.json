@@ -26,5 +26,5 @@
   "skills": "./skills/",
   "mcpServers": "./mcp.json",
   "publisher": "reThrive Labs LLC",
-  "category": "health"
+  "category": "integrations"
 }
