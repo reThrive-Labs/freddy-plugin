@@ -1,0 +1,30 @@
+{
+  "name": "freddy",
+  "displayName": "freddy",
+  "version": "1.0.0",
+  "description": "Connect your wearables, rings, CGMs and training apps, then ask about your own sleep, recovery, training and activity data.",
+  "author": {
+    "name": "reThrive Labs LLC",
+    "email": "tom@freddy.coach"
+  },
+  "homepage": "https://freddy.coach",
+  "repository": "https://github.com/reThrive-Labs/freddy-plugin",
+  "license": "MIT",
+  "keywords": [
+    "health",
+    "fitness",
+    "wearables",
+    "sleep",
+    "recovery",
+    "training",
+    "garmin",
+    "oura",
+    "whoop",
+    "apple-health"
+  ],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json",
+  "publisher": "reThrive Labs LLC",
+  "category": "health"
+}
